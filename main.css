@@ -101,6 +101,7 @@ a {
   position: relative;
   top: 15%}
 .img-responsive:hover {
+  border: none;
 }
 .portfolio-row {
   position: relative;
